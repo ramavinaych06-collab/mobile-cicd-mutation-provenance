@@ -1,0 +1,2 @@
+# Standard library dependencies only.
+# Compatible with Python 3.9+
